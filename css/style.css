@@ -1,0 +1,74 @@
+.logo {
+  height: 60px;
+  margin: 20px;
+}
+
+body {
+  background-color: #f8f8f8;
+  width: 100%;
+  margin: auto;
+}
+
+html {
+  width: 100%;
+  margin: 0;
+}
+
+section {
+  width: 80%;
+  margin: auto;
+}
+
+header, section {
+  background-color: #ffffff;
+}
+
+h1 {
+  color: #2c3e50;
+  font-size: 32px;
+  font-weight: 400;
+}
+
+h2 {
+  color: #6eb92b;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+h3, .card-text {
+  font-size: 16px;
+  font-weight: 200;
+}
+
+i {
+  color: #6eb92b;
+}
+
+#nstar {
+  color: #A9A9A9;
+}
+
+.but {
+  background-color: #6eb92b;
+  color: #697070;
+}
+
+form {
+  font-size: 20px;
+  font-weight: 200;
+}
+
+.card, .but, .inp {
+  border-radius: 5px;
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+
+}
+
+.card-body {
+
+}
